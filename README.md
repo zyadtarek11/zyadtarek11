@@ -22,10 +22,10 @@
 ## My Github Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zyadtarek11&label=Profile%20views&color=0e75b6&style=flat" alt="jurgen-lentz" /> </p>
 
-[![Mostafa's github stats](https://github-readme-stats.vercel.app/api?username=zyadtarek11&show_icons=true&title_color=000&icon_color=79ff97&text_color=000&bg_color=FFFF)](https://github.com/zyadtarek11)
+[![Mostafa's github stats](https://github-readme-stats.vercel.app/api?username=zyadtarek11&show_icons=true&title_color=000&icon_color=79ff97&text_color=000&bg_color=FFFF)](☕)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyadtarek11&layout=compact&title_color=000&icon_color=79ff97&text_color=000&bg_color=FFFF)](https://github.com/zyadtarek11)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyadtarek11&layout=compact&title_color=000&icon_color=79ff97&text_color=000&bg_color=FFFF)](☕)
 
-[![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=zyadtarek11&theme=light)](https://github.com/zyadtarek11)
+[![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=zyadtarek11&theme=light)](☕)
 
 
