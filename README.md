@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40" title="Linux"/>
 </p>
 
-## Some of my Github Stats
+## My Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=zyadtarek11 alt=zyadtarek11 /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=zyadtarek11&show_icons=true&include_all_commits=true)](https://github.com/zyadtarek11/github-readme-stats)
