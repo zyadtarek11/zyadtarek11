@@ -57,6 +57,7 @@
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zyadtarek11&theme=light" alt="GitHub Streak" />
 </p>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 <div>
 <h2>🏆 GitHub Trophies</h2>
 <p align="left">
