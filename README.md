@@ -49,6 +49,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=zyadtarek11&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
 </p>
 
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zyadtarek11&theme=light" alt="GitHub Streak" />
-</p>
-
