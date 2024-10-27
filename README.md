@@ -46,12 +46,11 @@
   <p style="display: inline-block; vertical-align: middle;">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=zyadtarek11&show_icons=true&title_color=000&icon_color=79ff97&text_color=000&bg_color=FFFF" alt="zyad tarek" />
   </p>
-  
+  <br><br><br><br><br><br><br><br><br><br><br><br>
   <p style="display: inline-block; text-position: middle;">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyadtarek11&layout=compact&title_color=000&icon_color=79ff97&text_color=000&bg_color=FFFF7" alt="zyad tarek" />
   </p>
 </div>
-<br><br><br><br><br><br><br><br><br><br><br><br>
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zyadtarek11&theme=light" alt="GitHub Streak" />
 </p>
