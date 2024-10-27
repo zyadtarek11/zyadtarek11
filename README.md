@@ -46,6 +46,6 @@
 
 ## 🏆 GitHub Trophies
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=zyadtarek11&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=zyadtarek11&theme=&no-frame=&no-bg=false&margin-w=4" alt="GitHub Trophies">
 </p>
 
