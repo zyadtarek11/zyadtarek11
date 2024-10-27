@@ -1,32 +1,24 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="45px">, I'm Zyad</h1>
-<h3 align="center">A Passionate DevOps Engineer with a focus on continuous learning</h3>
+## Hey 👋, This is Zyad Tarek 
 
-<img align="right" alt="Coding" width="335" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
+[![Linkedin Badge](https://img.shields.io/badge/-zyadtarek-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zyadtarek/)](https://www.linkedin.com/in/zyadtarek/) 
+[![Github Badge](https://img.shields.io/badge/-zyadtarek11-grey?style=flat&logo=github&logoColor=white&link=https://github.com/zyadtarek11/)](https://www.github.com/zyadtarek11/)
+[![YouTube Badge](https://img.shields.io/badge/-zyad%20tarek-FF0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/@zyadtarek11)](https://www.youtube.com/@zyadtarek11)
+
+<p align='left'><b>I am making art while programming 🌌</b></p>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=zyadtarek11&label=Profile%20views&color=4DC81F&style=flat" alt="zyad-tarek" /> 
+  <img src="https://komarev.com/ghpvc/?username=zyadtarek11&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
-- 🌱 I’m currently learning **AWS CLOUD Services**, **APIs**, **Nodejs**, **Database**, **OOP**, **DS and Algos** 
-- 📫 How to reach me: **zyadtarek900@gmail.com**
+---
 
-### Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/zyadtarek" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zyad tarek" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/zyad.zyadzizo.3" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zyad tarek" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/zyadtarek11" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zyad tarek" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@zyadtarek11" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zyad tarek" height="30" width="40" />
-  </a>
-</p>
+### 🌱 Currently Learning
+- **AWS CLOUD Services**, **APIs**, **Node.js**, **Database**, **OOP**, **Data Structures, and Algorithms** 
 
-### Languages and Tools:
+---
+
+## Skills
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40" title="Bash"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>
@@ -40,18 +32,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40" title="Linux"/>
 </p>
 
-<br>
+---
 
-<div>
-  <p style="display: inline-block; vertical-align: middle;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=zyadtarek11&show_icons=true&title_color=000&icon_color=79ff97&text_color=000&bg_color=FFFF" alt="zyad tarek" />
-  </p>
-  <br><br><br><br><br><br><br><br><br><br><br><br>
-  <p style="display: inline-block; text-position: middle;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyadtarek11&layout=compact&title_color=000&icon_color=79ff97&text_color=000&bg_color=FFFF7" alt="zyad tarek" />
-  </p>
-</div>
-<p>
+## 📊 My GitHub Stats
+
+[![Zyad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zyadtarek11&show_icons=true&title_color=000&icon_color=79ff97&text_color=000&bg_color=FFFF)](https://github.com/zyadtarek11)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyadtarek11&layout=compact&title_color=000&icon_color=79ff97&text_color=000&bg_color=FFFF)](https://github.com/zyadtarek11)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zyadtarek11&theme=light)](https://github.com/zyadtarek11)
+
+---
+
+## 🏆 GitHub Trophies
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=zyadtarek11&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
+</p>
+
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zyadtarek11&theme=light" alt="GitHub Streak" />
 </p>
 <br><br><br><br><br><br><br><br><br><br><br><br>
