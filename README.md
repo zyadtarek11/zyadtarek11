@@ -57,7 +57,6 @@
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zyadtarek11&theme=light" alt="GitHub Streak" />
 </p>
-<p>
-  <img align="left" src="https://github-profile-trophy.vercel.app/?username=AhmedReda958&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Streak" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=zyadtarek11&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
