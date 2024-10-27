@@ -51,6 +51,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyadtarek11&layout=compact&title_color=000&icon_color=79ff97&text_color=000&bg_color=FFFF7" alt="zyad tarek" />
   </p>
 </div>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zyadtarek11&theme=light" alt="GitHub Streak" />
 </p>
